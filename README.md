@@ -15,7 +15,7 @@
 
 ### 2.1 ROS Environment with JIT Compiler
 ![](https://raw.githubusercontent.com/zygn/Capston_AD1_Result/img/img/ros.png)
-![](https://raw.githubusercontent.com/zygn/Capston_AD1_Result/img/img/ros-vscode.png)
+<!-- ![](https://raw.githubusercontent.com/zygn/Capston_AD1_Result/img/img/ros-vscode.png) -->
 ### 2.2 A* Path Planning
 ![](https://raw.githubusercontent.com/zygn/Capston_AD1_Result/img/img/astar.png)
 ### 2.3 Obstacle Avoidance with DQN
