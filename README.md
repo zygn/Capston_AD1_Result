@@ -9,10 +9,11 @@
 
 ## 1. 요구사항 
 ### 1.1. Use Case Model
- - [Capston Design - 요구사항 분석]()
+ - [Capston Design - 요구사항 분석](https://github.com/zygn/Capston_AD1_Result/blob/main/1.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD/Capston%20Design%20-%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D.pdf)
 
 ## 2. 구현 결과
  - [Capston Design - 구현 결과]()
+ - [Capston Design - 발표 자료]()
 
 ## 3. 기타
 
