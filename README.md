@@ -12,6 +12,7 @@
  - [Capston Design - 요구사항 분석](https://github.com/zygn/Capstone_AD1_Result/blob/main/1.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD/Capston%20Design%20-%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D.pdf)
 
 ## 2. 구현 결과
+ - [Capston Design - 결과보고서(작성중)]()
 
 ### 2.1 ROS Environment with JIT Compiler
 ![](https://raw.githubusercontent.com/zygn/Capstone_AD1_Result/img/img/ros.png)
@@ -19,8 +20,7 @@
 ### 2.2 A* Path Planning
 ![](https://raw.githubusercontent.com/zygn/Capstone_AD1_Result/img/img/astar.png)
 ### 2.3 Obstacle Avoidance with DQN
-![]('obstacle_dqn.png')
- - [Capston Design - 구현 결과]()
+
 
 
 
@@ -57,5 +57,5 @@
  - [zygn/Capston_AD1](https://github.com/zygn/Capstone_AD1) 에서 확인 하실수 있습니다. 
 
 ### 발표 자료
- - [Capston Design - 발표 자료]()
+ - [Capston Design - 발표 자료](https://github.com/zygn/Capstone_AD1_Result/blob/main/2.%20%EA%B5%AC%ED%98%84%EA%B2%B0%EA%B3%BC/AD1%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
